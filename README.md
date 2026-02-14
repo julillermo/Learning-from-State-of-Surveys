@@ -1,6 +1,6 @@
 # Learning from State of Surveys
 
-## Things mentioned in the State of JS 2025 survey that I'm interested in trying out
+## Things mentioned in the [State of JS 2025 survey](https://2025.stateofjs.com/en-US/) that I'm interested in trying out
 - **Features**
   - Syntax Features:
     - Logical Assignment (specifically `||=`)
