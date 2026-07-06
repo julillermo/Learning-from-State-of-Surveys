@@ -28,3 +28,7 @@
     - Temporal
     - Gamepad API
     - Scheduler API
+
+## Others
+- Noted during my read-through of the 2025 State of CSS survey (but cannot locate based on my recent skim through):
+  - [CSS Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
