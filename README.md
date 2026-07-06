@@ -30,5 +30,5 @@
     - Scheduler API
 
 ## Others
-- Noted during my read-through of the [2025 State of CSS survey](https://2025.stateofcss.com/en-US/) (but cannot locate based on my recent skim through):
-  - [CSS Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
+- Features mentioned by Maximilian in their [2026 YouTube video](https://youtu.be/VP-Lp9ZsjPY?t=384)
+  - [Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
